@@ -1,5 +1,3 @@
-# Check-Leaderboard-Quest-3
-
 # Софт для парсинга SUI Leaderboard Quest 3.
 
 ## Укажите ваши адреса в wallets.txt (каждый адрес с новой строки). 
